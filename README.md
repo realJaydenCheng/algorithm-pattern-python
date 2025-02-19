@@ -1,3 +1,4 @@
+
 # 说明
 
 本项目为原项目 [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) 的 Python3 语言实现版本，原项目使用 go 语言实现，目前已获 ![GitHub stars](https://img.shields.io/github/stars/greyireland/algorithm-pattern?style=social)。在原项目基础上，本项目添加了优先级队列，并查集，图相关算法等内容，基本覆盖了所有基础数据结构和算法，非常适合找工刷题的同学快速上手。以下为原项目 README，目录部分增加了本项目的新内容。
@@ -20,17 +21,17 @@
 
 ### 入门篇 🐶
 
-- [使用 Python3 写算法题](./introduction/python.md)
-- [算法快速入门](./introduction/quickstart.md)
+- [使用 Python3 写算法题](./1.introduction/python.md)
+- [算法快速入门](./1.introduction/quickstart.md)
 
 ### 数据结构篇 🐰
 
-- [二叉树](./data_structure/binary_tree.md)
-- [链表](./data_structure/linked_list.md)
-- [栈和队列](./data_structure/stack_queue.md)
-- [优先级队列 (堆)](./data_structure/heap.md)
-- [并查集](./data_structure/union_find.md)
-- [二进制](./data_structure/binary_op.md)
+- [二叉树](./2.data_structure/1.binary_tree.md)
+- [链表](./2.data_structure/2.linked_list.md)
+- [栈和队列](./2.data_structure/3.stack_queue.md)
+- [优先级队列 (堆)](./2.data_structure/4.heap.md)
+- [并查集](./2.data_structure/5.union_find.md)
+- [二进制](./2.data_structure/6.binary_op.md)
 
 ### 基础算法篇 🐮
 
